@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![An image of @atharvavaish240's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atharvavaish240)](https://holopin.io/@atharvavaish240)
 <!--
 **atharva-vaish240/atharva-vaish240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
